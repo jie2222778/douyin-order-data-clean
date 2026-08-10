@@ -1,0 +1,6 @@
+# 屏蔽运行产出表格文件
+*.xlsx
+# python缓存文件
+__pycache__/
+*.pyc
+*.pyo
