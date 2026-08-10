@@ -2,7 +2,7 @@ import pandas as pd
 
 # 构造抖音电商订单：订单编号、买家昵称、手机号、收货地址、下单时间、商品名称、实付金额、订单状态
 data_list = [
-# 你原本里面所有列表数据不动保留
+
 ]
 columns = ["订单编号","买家昵称","联系电话","收货地址","下单时间","商品名称","实付金额","订单状态"]
 df = pd.DataFrame(data_list,columns=columns)
